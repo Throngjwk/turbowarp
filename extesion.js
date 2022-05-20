@@ -83,7 +83,7 @@ class ThrongExtension {
     return "the testing moment";
   }
   expidleVar() {
-    return "Coming Soon...;
+    return "Coming Soon...";
   }
 }
 Scratch.extensions.register(new ThrongjwkExtension());
